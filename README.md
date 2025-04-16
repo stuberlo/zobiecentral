@@ -14,5 +14,4 @@ docker
 ```
 3. Browse to http://localhost and play around
 
-Documentation on http://localhost/api/docs
 
