@@ -1,0 +1,5 @@
+fastapi[standard]==0.115.12
+requests==2.32.3
+sqlmodel==0.0.24
+black==25.1.0
+pytest==8.3.5
